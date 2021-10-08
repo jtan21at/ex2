@@ -1,0 +1,42 @@
+Enter pancake size in radius
+5
+Enter cupcake height
+5
+Enter cupcake radius
+5
+eat pancake
+eat cupcake
+eat cupcake
+custumer explode
+
+Enter pancake size in radius
+3
+Enter cupcake height
+3
+Enter cupcake radius
+3
+eat cupcake
+eat pancake
+eat pancake
+eat pancake
+eat pancake
+eat pancake
+eat pancake
+eat pancake
+eat pancake
+eat cupcake
+eat pancake
+eat pancake
+eat cupcake
+eat pancake
+eat cupcake
+eat pancake
+eat pancake
+eat cupcake
+custumer explode
+
+Enter pancake size in radius
+a
+Something's wrong.
+Enter cupcake height
+Something's wrong.
